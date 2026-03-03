@@ -8,6 +8,12 @@ For the **advisor**, it acts as a co-pilot—maintaining genuine, real-time awar
 
 ---
 
+## 📺 Video Demo
+
+[**Click here to watch the FinishLine Demo**](https://drive.google.com/file/d/1qM8pLZ5XhJjz1l3mynept1dOJ7vphS6k/view?usp=sharing)
+
+---
+
 ## 🚀 Features
 
 ### Consumer Side
